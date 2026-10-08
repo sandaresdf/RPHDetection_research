@@ -52,7 +52,7 @@ def create_attack_scenario(attack_data):
     return {"messages": [HumanMessage(content=poisoned_content)]}
 
 
-def run_injection_tests(dataset_file="prompt_injection_dataset.jsonl", num_tests=50):
+def run_injection_tests(dataset_file="../datasets/prompt_injection/experiement_2_prompt_injection_dataset.jsonl", num_tests=50):
     """
     Test the agent against prompt injection attacks.
     """

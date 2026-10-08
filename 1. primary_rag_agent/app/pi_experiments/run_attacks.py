@@ -4,7 +4,7 @@ import random
 from app.RAGAgent import RAGAgent
 from app.pi_experiments.evaluator import check_success
 
-base_path= Path("app/pi_experiments")
+base_path= Path("../datasets/prompt_injection/pi_experiments")
 
 with open(base_path / "injection_templates.json") as f:
     TEMPLATES = json.load(f)

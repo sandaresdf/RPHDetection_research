@@ -4,7 +4,7 @@ generate_stealth_dataset.py
 Uses Claude API to generate diverse stealth attack scenarios for RPH research.
 Run this once to build your dataset, then use it in notebook 03.
 
-Output: data/stealth/generated_stealth_dataset.json
+Output: ../datasets/stealth_attacks/generated_stealth_dataset.json
 """
 
 import json
@@ -201,7 +201,7 @@ def generate_one(prompt: str, system: str, retries: int = 3) -> dict | None:
 def generate_dataset(
     n_attack_per_type: int = 25,   # 25 × 4 types = 100 attack scenarios
     n_clean: int = 50,             # 50 clean scenarios
-    output_path: str = "data/stealth/generated_stealth_dataset.json",
+    output_path: str = "../datasets/stealth_attacks/generated_stealth_dataset.json",
     delay: float = 0.5,
 ):
     Path(output_path).parent.mkdir(parents=True, exist_ok=True)
@@ -299,7 +299,7 @@ if __name__ == "__main__":
     parser.add_argument("--n-attack", type=int, default=50,  help="Scenarios per attack type (4 types × n)")
     parser.add_argument("--n-clean",  type=int, default=50,  help="Clean scenarios")
     parser.add_argument("--delay",    type=float, default=0.5, help="Delay between API calls (seconds)")
-    parser.add_argument("--output",   default="data/stealth/generated_stealth_dataset.json")
+    parser.add_argument("--output",   default="../datasets/stealth_attacks/generated_stealth_dataset.json")
     args = parser.parse_args()
     
     generate_dataset(

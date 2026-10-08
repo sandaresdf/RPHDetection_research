@@ -12,7 +12,7 @@ def build_dataset():
     """Build the prompt injection dataset from RedQueen samples."""
     print("Generating prompt injection dataset...")
     generate_prompt_injection_dataset(
-        output_file="prompt_injection_dataset.jsonl",
+        output_file="../datasets/prompt_injection/experiement_2_prompt_injection_dataset.jsonl",
         num_samples=NUM_SAMPLES,
         model="claude-sonnet-4-20250514"
     )
@@ -22,7 +22,7 @@ def build_dataset():
 def run_batch():
 
     # read atack dataset
-    with open("prompt_injection_dataset.jsonl", 'r') as f:
+    with open("../datasets/prompt_injection/experiement_2_prompt_injection_dataset.jsonl", 'r') as f:
         attacks = [json.loads(line) for line in f]
 
     app = build_graph()

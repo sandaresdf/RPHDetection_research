@@ -9,7 +9,7 @@ from pathlib import Path
 ANTHROPIC_API_KEY=os.getenv("ANTHROPIC_API_KEY")
 
 def generate_prompt_injection_dataset(
-    output_file="prompt_injection_dataset.jsonl",
+    output_file="../datasets/prompt_injection/experiement_2_prompt_injection_dataset.jsonl",
     num_samples=5,
     model="claude-sonnet-4-20250514"
 ):
@@ -94,7 +94,7 @@ def generate_prompt_injection_dataset(
     return results
 
 
-def load_prompt_injection_dataset(file_path="prompt_injection_dataset.jsonl"):
+def load_prompt_injection_dataset(file_path="../datasets/prompt_injection/experiement_2_prompt_injection_dataset.jsonl"):
     """Load the generated dataset."""
     samples = []
     with open(file_path, 'r') as f:

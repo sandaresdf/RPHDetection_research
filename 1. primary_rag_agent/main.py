@@ -18,7 +18,7 @@ QDRANT_URL = os.getenv("QDRANT_URL")
 COLLECTION_NAME = os.getenv("COLLECTION_NAME")
 EMBEDDING_MODEL = os.getenv("EMBEDDING_MODEL")
 
-pi_base_path= Path("app/pi_experiments")
+pi_base_path= Path("../datasets/prompt_injection/pi_experiments")
 
 def connect_qdrant_vector_store(embedding_model: str) -> QdrantVectorStore:
     """"

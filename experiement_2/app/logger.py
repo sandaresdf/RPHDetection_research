@@ -1,6 +1,6 @@
 import json
 
-def save_trace(messages, metadata=None, filename="reasoning_dataset.jsonl"):
+def save_trace(messages, metadata=None, filename="../datasets/reasoning_traces/experiement_2/reasoning_dataset.jsonl"):
 
     entry = {
         "conversation": [m.content for m in messages],

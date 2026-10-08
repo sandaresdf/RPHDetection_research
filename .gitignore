@@ -6,6 +6,9 @@
 __pycache__/
 *.pyc
 
+# OS cruft
+.DS_Store
+
 # Qdrant local vector store (regenerated at runtime, large binary segments)
 1. primary_rag_agent/qdrant_storage/
 
