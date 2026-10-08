@@ -1,0 +1,99 @@
+{
+  "task_id": "8bba3975-ee76-4b8e-b2c7-95d49711d6ee",
+  "query": "What is machine learning and how does it work?",
+  "timestamp": "2025-10-21T14:44:30.755603",
+  "judgments": [
+    {
+      "judgment_id": "21aabfb1-ff34-4dc2-98a9-5910e31c804e",
+      "mode": "pointwise",
+      "scores": {
+        "correctness": 4.0,
+        "helpfulness": 4.0,
+        "safety": 4.0,
+        "coherence": 4.0,
+        "completeness": 4.0
+      },
+      "overall_score": 4.0,
+      "reasoning": "Correctness: Mock reasoning for correctness_reasoning\n\nHelpfulness: Mock reasoning for helpfulness_reasoning\n\nSafety: Mock reasoning for safety_reasoning\n\nCoherence: Mock reasoning for coherence_reasoning\n\nCompleteness: Mock reasoning for completeness_reasoning",
+      "timestamp": "2025-10-21T14:44:30.755603",
+      "metadata": {
+        "query": "What is machine learning and how does it work?",
+        "agent_id": "agent_gpt4",
+        "response_id": "2b410bd6-c298-4b6b-afd8-22c74458de62",
+        "has_reference": true
+      }
+    },
+    {
+      "judgment_id": "365ba462-157d-46f6-9067-b4040c5cfbf7",
+      "mode": "pointwise",
+      "scores": {
+        "correctness": 4.0,
+        "helpfulness": 4.0,
+        "safety": 4.0,
+        "coherence": 4.0,
+        "completeness": 4.0
+      },
+      "overall_score": 4.0,
+      "reasoning": "Correctness: Mock reasoning for correctness_reasoning\n\nHelpfulness: Mock reasoning for helpfulness_reasoning\n\nSafety: Mock reasoning for safety_reasoning\n\nCoherence: Mock reasoning for coherence_reasoning\n\nCompleteness: Mock reasoning for completeness_reasoning",
+      "timestamp": "2025-10-21T14:44:30.755603",
+      "metadata": {
+        "query": "What is machine learning and how does it work?",
+        "agent_id": "agent_claude",
+        "response_id": "5be0562a-b6dc-41fc-ba57-791b14ae2b4d",
+        "has_reference": true
+      }
+    },
+    {
+      "judgment_id": "04df5249-d749-4bd9-a0ea-720d882e815a",
+      "mode": "pointwise",
+      "scores": {
+        "correctness": 4.0,
+        "helpfulness": 4.0,
+        "safety": 4.0,
+        "coherence": 4.0,
+        "completeness": 4.0
+      },
+      "overall_score": 4.0,
+      "reasoning": "Correctness: Mock reasoning for correctness_reasoning\n\nHelpfulness: Mock reasoning for helpfulness_reasoning\n\nSafety: Mock reasoning for safety_reasoning\n\nCoherence: Mock reasoning for coherence_reasoning\n\nCompleteness: Mock reasoning for completeness_reasoning",
+      "timestamp": "2025-10-21T14:44:30.755603",
+      "metadata": {
+        "query": "What is machine learning and how does it work?",
+        "agent_id": "agent_conservative",
+        "response_id": "63e29f4d-9abb-4eb2-90f3-9a882cefa8c1",
+        "has_reference": true
+      }
+    }
+  ],
+  "agent_responses": {
+    "agent_gpt4": {
+      "response": "Mock response to: Context:\ndomain: AI/ML\ndifficulty: beginner\n\nQuery: What is machine learning and how does it work?\n\n...",
+      "agent_id": "agent_gpt4",
+      "response_id": "2b410bd6-c298-4b6b-afd8-22c74458de62"
+    },
+    "agent_claude": {
+      "response": "Mock response to: Context:\ndomain: AI/ML\ndifficulty: beginner\n\nQuery: What is machine learning and how does it work?\n\n...",
+      "agent_id": "agent_claude",
+      "response_id": "5be0562a-b6dc-41fc-ba57-791b14ae2b4d"
+    },
+    "agent_conservative": {
+      "response": "Mock response to: Context:\ndomain: AI/ML\ndifficulty: beginner\n\nQuery: What is machine learning and how does it work?\n\n...",
+      "agent_id": "agent_conservative",
+      "response_id": "63e29f4d-9abb-4eb2-90f3-9a882cefa8c1"
+    }
+  },
+  "rankings": [
+    [
+      "agent_gpt4",
+      4.0
+    ],
+    [
+      "agent_claude",
+      4.0
+    ],
+    [
+      "agent_conservative",
+      4.0
+    ]
+  ],
+  "summary": "Evaluation Summary for: What is machine learning and how does it work?\n\nTotal Agents Evaluated: 3\nTotal Judgments: 3\n\nRankings:\n  1. agent_gpt4: 4.00\n  2. agent_claude: 4.00\n  3. agent_conservative: 4.00\n\nBest Performing Agent: agent_gpt4\n\nCriterion Analysis:\n  Correctness: 4.00 (avg)\n  Helpfulness: 4.00 (avg)\n  Safety: 4.00 (avg)\n  Coherence: 4.00 (avg)\n  Completeness: 4.00 (avg)"
+}

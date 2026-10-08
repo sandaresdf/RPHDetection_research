@@ -1,0 +1,416 @@
+[
+  {
+    "title": "Annual Leave and Time-Off Policy",
+    "category": "hr_policies",
+    "topics": [
+      "leave entitlement",
+      "leave approval process",
+      "carryover rules",
+      "public holidays"
+    ],
+    "target_word_count": 800,
+    "actual_word_count": 922,
+    "complexity": "medium",
+    "generated_at": "2025-12-22T05:23:09.383153",
+    "model": "claude-sonnet-4-20250514",
+    "tokens_used": 1893,
+    "filename": "01_Annual_Leave_and_Time-Off_Policy.txt",
+    "filepath": "documents/hr_policies/01_Annual_Leave_and_Time-Off_Policy.txt"
+  },
+  {
+    "title": "Remote Work and Hybrid Working Policy",
+    "category": "hr_policies",
+    "topics": [
+      "eligibility criteria",
+      "equipment provision",
+      "communication expectations",
+      "performance monitoring"
+    ],
+    "target_word_count": 1000,
+    "actual_word_count": 1112,
+    "complexity": "high",
+    "generated_at": "2025-12-22T05:23:49.363270",
+    "model": "claude-sonnet-4-20250514",
+    "tokens_used": 2174,
+    "filename": "02_Remote_Work_and_Hybrid_Working_Policy.txt",
+    "filepath": "documents/hr_policies/02_Remote_Work_and_Hybrid_Working_Policy.txt"
+  },
+  {
+    "title": "Employee Benefits and Perks Handbook",
+    "category": "hr_policies",
+    "topics": [
+      "health insurance",
+      "retirement plans",
+      "wellness programs",
+      "professional development"
+    ],
+    "target_word_count": 1200,
+    "actual_word_count": 1182,
+    "complexity": "high",
+    "generated_at": "2025-12-22T05:24:33.947504",
+    "model": "claude-sonnet-4-20250514",
+    "tokens_used": 2480,
+    "filename": "03_Employee_Benefits_and_Perks_Handbook.txt",
+    "filepath": "documents/hr_policies/03_Employee_Benefits_and_Perks_Handbook.txt"
+  },
+  {
+    "title": "Expense Reimbursement Guidelines",
+    "category": "hr_policies",
+    "topics": [
+      "eligible expenses",
+      "submission process",
+      "approval workflow",
+      "reimbursement timeline"
+    ],
+    "target_word_count": 700,
+    "actual_word_count": 702,
+    "complexity": "medium",
+    "generated_at": "2025-12-22T05:25:01.600109",
+    "model": "claude-sonnet-4-20250514",
+    "tokens_used": 1594,
+    "filename": "04_Expense_Reimbursement_Guidelines.txt",
+    "filepath": "documents/hr_policies/04_Expense_Reimbursement_Guidelines.txt"
+  },
+  {
+    "title": "Performance Review and Appraisal Process",
+    "category": "hr_policies",
+    "topics": [
+      "review cycles",
+      "evaluation criteria",
+      "feedback mechanisms",
+      "promotion guidelines"
+    ],
+    "target_word_count": 900,
+    "actual_word_count": 1022,
+    "complexity": "high",
+    "generated_at": "2025-12-22T05:25:41.297890",
+    "model": "claude-sonnet-4-20250514",
+    "tokens_used": 2057,
+    "filename": "05_Performance_Review_and_Appraisal_Process.txt",
+    "filepath": "documents/hr_policies/05_Performance_Review_and_Appraisal_Process.txt"
+  },
+  {
+    "title": "Password and Authentication Policy",
+    "category": "it_security",
+    "topics": [
+      "password requirements",
+      "MFA implementation",
+      "password rotation",
+      "account lockout"
+    ],
+    "target_word_count": 600,
+    "actual_word_count": 737,
+    "complexity": "medium",
+    "generated_at": "2025-12-22T05:26:07.545605",
+    "model": "claude-sonnet-4-20250514",
+    "tokens_used": 1552,
+    "filename": "01_Password_and_Authentication_Policy.txt",
+    "filepath": "documents/it_security/01_Password_and_Authentication_Policy.txt"
+  },
+  {
+    "title": "Data Classification and Handling Policy",
+    "category": "it_security",
+    "topics": [
+      "classification levels",
+      "storage requirements",
+      "sharing protocols",
+      "disposal procedures"
+    ],
+    "target_word_count": 1100,
+    "actual_word_count": 1421,
+    "complexity": "high",
+    "generated_at": "2025-12-22T05:26:57.917323",
+    "model": "claude-sonnet-4-20250514",
+    "tokens_used": 2761,
+    "filename": "02_Data_Classification_and_Handling_Policy.txt",
+    "filepath": "documents/it_security/02_Data_Classification_and_Handling_Policy.txt"
+  },
+  {
+    "title": "Incident Response and Reporting Procedure",
+    "category": "it_security",
+    "topics": [
+      "incident types",
+      "reporting channels",
+      "response team roles",
+      "escalation matrix"
+    ],
+    "target_word_count": 950,
+    "actual_word_count": 1184,
+    "complexity": "high",
+    "generated_at": "2025-12-22T05:27:45.536198",
+    "model": "claude-sonnet-4-20250514",
+    "tokens_used": 2558,
+    "filename": "03_Incident_Response_and_Reporting_Procedure.txt",
+    "filepath": "documents/it_security/03_Incident_Response_and_Reporting_Procedure.txt"
+  },
+  {
+    "title": "Acceptable Use of IT Resources Policy",
+    "category": "it_security",
+    "topics": [
+      "permitted usage",
+      "prohibited activities",
+      "personal device usage",
+      "monitoring practices"
+    ],
+    "target_word_count": 750,
+    "actual_word_count": 966,
+    "complexity": "medium",
+    "generated_at": "2025-12-22T05:28:20.690850",
+    "model": "claude-sonnet-4-20250514",
+    "tokens_used": 1787,
+    "filename": "04_Acceptable_Use_of_IT_Resources_Policy.txt",
+    "filepath": "documents/it_security/04_Acceptable_Use_of_IT_Resources_Policy.txt"
+  },
+  {
+    "title": "Cloud Services and SaaS Usage Guidelines",
+    "category": "it_security",
+    "topics": [
+      "approved platforms",
+      "data sovereignty",
+      "vendor assessment",
+      "access controls"
+    ],
+    "target_word_count": 850,
+    "actual_word_count": 1081,
+    "complexity": "high",
+    "generated_at": "2025-12-22T05:29:04.010816",
+    "model": "claude-sonnet-4-20250514",
+    "tokens_used": 2254,
+    "filename": "05_Cloud_Services_and_SaaS_Usage_Guidelines.txt",
+    "filepath": "documents/it_security/05_Cloud_Services_and_SaaS_Usage_Guidelines.txt"
+  },
+  {
+    "title": "Procurement and Vendor Management Policy",
+    "category": "finance",
+    "topics": [
+      "procurement process",
+      "vendor selection",
+      "contract approval",
+      "payment terms"
+    ],
+    "target_word_count": 1000,
+    "actual_word_count": 1240,
+    "complexity": "high",
+    "generated_at": "2025-12-22T05:29:46.263039",
+    "model": "claude-sonnet-4-20250514",
+    "tokens_used": 2438,
+    "filename": "01_Procurement_and_Vendor_Management_Policy.txt",
+    "filepath": "documents/finance/01_Procurement_and_Vendor_Management_Policy.txt"
+  },
+  {
+    "title": "Budget Planning and Allocation Guidelines",
+    "category": "finance",
+    "topics": [
+      "budget cycles",
+      "department allocation",
+      "variance reporting",
+      "forecast updates"
+    ],
+    "target_word_count": 900,
+    "actual_word_count": 1087,
+    "complexity": "high",
+    "generated_at": "2025-12-22T05:30:25.872317",
+    "model": "claude-sonnet-4-20250514",
+    "tokens_used": 2107,
+    "filename": "02_Budget_Planning_and_Allocation_Guidelines.txt",
+    "filepath": "documents/finance/02_Budget_Planning_and_Allocation_Guidelines.txt"
+  },
+  {
+    "title": "Travel and Entertainment Expense Policy",
+    "category": "finance",
+    "topics": [
+      "travel booking",
+      "accommodation limits",
+      "meal allowances",
+      "client entertainment"
+    ],
+    "target_word_count": 800,
+    "actual_word_count": 915,
+    "complexity": "medium",
+    "generated_at": "2025-12-22T05:31:02.119308",
+    "model": "claude-sonnet-4-20250514",
+    "tokens_used": 1793,
+    "filename": "03_Travel_and_Entertainment_Expense_Policy.txt",
+    "filepath": "documents/finance/03_Travel_and_Entertainment_Expense_Policy.txt"
+  },
+  {
+    "title": "Invoice Processing and Payment Procedures",
+    "category": "finance",
+    "topics": [
+      "invoice submission",
+      "verification process",
+      "payment schedules",
+      "dispute resolution"
+    ],
+    "target_word_count": 650,
+    "actual_word_count": 675,
+    "complexity": "medium",
+    "generated_at": "2025-12-22T05:31:29.842148",
+    "model": "claude-sonnet-4-20250514",
+    "tokens_used": 1580,
+    "filename": "04_Invoice_Processing_and_Payment_Procedures.txt",
+    "filepath": "documents/finance/04_Invoice_Processing_and_Payment_Procedures.txt"
+  },
+  {
+    "title": "Project Management Methodology and Standards",
+    "category": "operations",
+    "topics": [
+      "project lifecycle",
+      "milestone tracking",
+      "resource allocation",
+      "risk management"
+    ],
+    "target_word_count": 1100,
+    "actual_word_count": 1119,
+    "complexity": "high",
+    "generated_at": "2025-12-22T05:32:10.527134",
+    "model": "claude-sonnet-4-20250514",
+    "tokens_used": 2251,
+    "filename": "01_Project_Management_Methodology_and_Standards.txt",
+    "filepath": "documents/operations/01_Project_Management_Methodology_and_Standards.txt"
+  },
+  {
+    "title": "Internal Communication Protocols",
+    "category": "operations",
+    "topics": [
+      "email guidelines",
+      "meeting etiquette",
+      "collaboration tools",
+      "information sharing"
+    ],
+    "target_word_count": 700,
+    "actual_word_count": 825,
+    "complexity": "medium",
+    "generated_at": "2025-12-22T05:32:42.566527",
+    "model": "claude-sonnet-4-20250514",
+    "tokens_used": 1632,
+    "filename": "02_Internal_Communication_Protocols.txt",
+    "filepath": "documents/operations/02_Internal_Communication_Protocols.txt"
+  },
+  {
+    "title": "Business Continuity and Disaster Recovery Plan",
+    "category": "operations",
+    "topics": [
+      "critical systems",
+      "backup procedures",
+      "recovery objectives",
+      "communication plan"
+    ],
+    "target_word_count": 1200,
+    "actual_word_count": 1357,
+    "complexity": "high",
+    "generated_at": "2025-12-22T05:33:33.746990",
+    "model": "claude-sonnet-4-20250514",
+    "tokens_used": 2724,
+    "filename": "03_Business_Continuity_and_Disaster_Recovery_Plan.txt",
+    "filepath": "documents/operations/03_Business_Continuity_and_Disaster_Recovery_Plan.txt"
+  },
+  {
+    "title": "Document Management and Retention Policy",
+    "category": "operations",
+    "topics": [
+      "naming conventions",
+      "version control",
+      "retention schedules",
+      "archival procedures"
+    ],
+    "target_word_count": 750,
+    "actual_word_count": 785,
+    "complexity": "medium",
+    "generated_at": "2025-12-22T05:34:07.150087",
+    "model": "claude-sonnet-4-20250514",
+    "tokens_used": 1825,
+    "filename": "04_Document_Management_and_Retention_Policy.txt",
+    "filepath": "documents/operations/04_Document_Management_and_Retention_Policy.txt"
+  },
+  {
+    "title": "GDPR and Data Privacy Compliance Guide",
+    "category": "compliance",
+    "topics": [
+      "data subject rights",
+      "consent management",
+      "breach notification",
+      "DPO responsibilities"
+    ],
+    "target_word_count": 1300,
+    "actual_word_count": 1200,
+    "complexity": "high",
+    "generated_at": "2025-12-22T05:34:52.528714",
+    "model": "claude-sonnet-4-20250514",
+    "tokens_used": 2286,
+    "filename": "01_GDPR_and_Data_Privacy_Compliance_Guide.txt",
+    "filepath": "documents/compliance/01_GDPR_and_Data_Privacy_Compliance_Guide.txt"
+  },
+  {
+    "title": "Code of Conduct and Ethics Policy",
+    "category": "compliance",
+    "topics": [
+      "professional behavior",
+      "conflicts of interest",
+      "gift policy",
+      "confidentiality"
+    ],
+    "target_word_count": 1000,
+    "actual_word_count": 1205,
+    "complexity": "high",
+    "generated_at": "2025-12-22T05:35:35.977607",
+    "model": "claude-sonnet-4-20250514",
+    "tokens_used": 2338,
+    "filename": "02_Code_of_Conduct_and_Ethics_Policy.txt",
+    "filepath": "documents/compliance/02_Code_of_Conduct_and_Ethics_Policy.txt"
+  },
+  {
+    "title": "Whistleblowing and Grievance Procedure",
+    "category": "compliance",
+    "topics": [
+      "reporting channels",
+      "investigation process",
+      "protection measures",
+      "resolution timeline"
+    ],
+    "target_word_count": 800,
+    "actual_word_count": 1047,
+    "complexity": "medium",
+    "generated_at": "2025-12-22T05:36:14.704688",
+    "model": "claude-sonnet-4-20250514",
+    "tokens_used": 2108,
+    "filename": "03_Whistleblowing_and_Grievance_Procedure.txt",
+    "filepath": "documents/compliance/03_Whistleblowing_and_Grievance_Procedure.txt"
+  },
+  {
+    "title": "Anti-Discrimination and Harassment Policy",
+    "category": "compliance",
+    "topics": [
+      "protected characteristics",
+      "complaint procedures",
+      "investigation protocols",
+      "disciplinary actions"
+    ],
+    "target_word_count": 950,
+    "actual_word_count": 1125,
+    "complexity": "high",
+    "generated_at": "2025-12-22T05:36:54.180772",
+    "model": "claude-sonnet-4-20250514",
+    "tokens_used": 2166,
+    "filename": "04_Anti-Discrimination_and_Harassment_Policy.txt",
+    "filepath": "documents/compliance/04_Anti-Discrimination_and_Harassment_Policy.txt"
+  },
+  {
+    "title": "Intellectual Property and Confidentiality Agreement",
+    "category": "compliance",
+    "topics": [
+      "IP ownership",
+      "invention disclosure",
+      "NDA requirements",
+      "trade secrets"
+    ],
+    "target_word_count": 900,
+    "actual_word_count": 982,
+    "complexity": "high",
+    "generated_at": "2025-12-22T05:37:29.888589",
+    "model": "claude-sonnet-4-20250514",
+    "tokens_used": 1905,
+    "filename": "05_Intellectual_Property_and_Confidentiality_Agreement.txt",
+    "filepath": "documents/compliance/05_Intellectual_Property_and_Confidentiality_Agreement.txt"
+  }
+]

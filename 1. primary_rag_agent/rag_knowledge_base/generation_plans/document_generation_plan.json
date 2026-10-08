@@ -1,0 +1,265 @@
+{
+  "hr_policies": [
+    {
+      "title": "Annual Leave and Time-Off Policy",
+      "topics": [
+        "leave entitlement",
+        "leave approval process",
+        "carryover rules",
+        "public holidays"
+      ],
+      "complexity": "medium",
+      "word_count": 800
+    },
+    {
+      "title": "Remote Work and Hybrid Working Policy",
+      "topics": [
+        "eligibility criteria",
+        "equipment provision",
+        "communication expectations",
+        "performance monitoring"
+      ],
+      "complexity": "high",
+      "word_count": 1000
+    },
+    {
+      "title": "Employee Benefits and Perks Handbook",
+      "topics": [
+        "health insurance",
+        "retirement plans",
+        "wellness programs",
+        "professional development"
+      ],
+      "complexity": "high",
+      "word_count": 1200
+    },
+    {
+      "title": "Expense Reimbursement Guidelines",
+      "topics": [
+        "eligible expenses",
+        "submission process",
+        "approval workflow",
+        "reimbursement timeline"
+      ],
+      "complexity": "medium",
+      "word_count": 700
+    },
+    {
+      "title": "Performance Review and Appraisal Process",
+      "topics": [
+        "review cycles",
+        "evaluation criteria",
+        "feedback mechanisms",
+        "promotion guidelines"
+      ],
+      "complexity": "high",
+      "word_count": 900
+    }
+  ],
+  "it_security": [
+    {
+      "title": "Password and Authentication Policy",
+      "topics": [
+        "password requirements",
+        "MFA implementation",
+        "password rotation",
+        "account lockout"
+      ],
+      "complexity": "medium",
+      "word_count": 600
+    },
+    {
+      "title": "Data Classification and Handling Policy",
+      "topics": [
+        "classification levels",
+        "storage requirements",
+        "sharing protocols",
+        "disposal procedures"
+      ],
+      "complexity": "high",
+      "word_count": 1100
+    },
+    {
+      "title": "Incident Response and Reporting Procedure",
+      "topics": [
+        "incident types",
+        "reporting channels",
+        "response team roles",
+        "escalation matrix"
+      ],
+      "complexity": "high",
+      "word_count": 950
+    },
+    {
+      "title": "Acceptable Use of IT Resources Policy",
+      "topics": [
+        "permitted usage",
+        "prohibited activities",
+        "personal device usage",
+        "monitoring practices"
+      ],
+      "complexity": "medium",
+      "word_count": 750
+    },
+    {
+      "title": "Cloud Services and SaaS Usage Guidelines",
+      "topics": [
+        "approved platforms",
+        "data sovereignty",
+        "vendor assessment",
+        "access controls"
+      ],
+      "complexity": "high",
+      "word_count": 850
+    }
+  ],
+  "finance": [
+    {
+      "title": "Procurement and Vendor Management Policy",
+      "topics": [
+        "procurement process",
+        "vendor selection",
+        "contract approval",
+        "payment terms"
+      ],
+      "complexity": "high",
+      "word_count": 1000
+    },
+    {
+      "title": "Budget Planning and Allocation Guidelines",
+      "topics": [
+        "budget cycles",
+        "department allocation",
+        "variance reporting",
+        "forecast updates"
+      ],
+      "complexity": "high",
+      "word_count": 900
+    },
+    {
+      "title": "Travel and Entertainment Expense Policy",
+      "topics": [
+        "travel booking",
+        "accommodation limits",
+        "meal allowances",
+        "client entertainment"
+      ],
+      "complexity": "medium",
+      "word_count": 800
+    },
+    {
+      "title": "Invoice Processing and Payment Procedures",
+      "topics": [
+        "invoice submission",
+        "verification process",
+        "payment schedules",
+        "dispute resolution"
+      ],
+      "complexity": "medium",
+      "word_count": 650
+    }
+  ],
+  "operations": [
+    {
+      "title": "Project Management Methodology and Standards",
+      "topics": [
+        "project lifecycle",
+        "milestone tracking",
+        "resource allocation",
+        "risk management"
+      ],
+      "complexity": "high",
+      "word_count": 1100
+    },
+    {
+      "title": "Internal Communication Protocols",
+      "topics": [
+        "email guidelines",
+        "meeting etiquette",
+        "collaboration tools",
+        "information sharing"
+      ],
+      "complexity": "medium",
+      "word_count": 700
+    },
+    {
+      "title": "Business Continuity and Disaster Recovery Plan",
+      "topics": [
+        "critical systems",
+        "backup procedures",
+        "recovery objectives",
+        "communication plan"
+      ],
+      "complexity": "high",
+      "word_count": 1200
+    },
+    {
+      "title": "Document Management and Retention Policy",
+      "topics": [
+        "naming conventions",
+        "version control",
+        "retention schedules",
+        "archival procedures"
+      ],
+      "complexity": "medium",
+      "word_count": 750
+    }
+  ],
+  "compliance": [
+    {
+      "title": "GDPR and Data Privacy Compliance Guide",
+      "topics": [
+        "data subject rights",
+        "consent management",
+        "breach notification",
+        "DPO responsibilities"
+      ],
+      "complexity": "high",
+      "word_count": 1300
+    },
+    {
+      "title": "Code of Conduct and Ethics Policy",
+      "topics": [
+        "professional behavior",
+        "conflicts of interest",
+        "gift policy",
+        "confidentiality"
+      ],
+      "complexity": "high",
+      "word_count": 1000
+    },
+    {
+      "title": "Whistleblowing and Grievance Procedure",
+      "topics": [
+        "reporting channels",
+        "investigation process",
+        "protection measures",
+        "resolution timeline"
+      ],
+      "complexity": "medium",
+      "word_count": 800
+    },
+    {
+      "title": "Anti-Discrimination and Harassment Policy",
+      "topics": [
+        "protected characteristics",
+        "complaint procedures",
+        "investigation protocols",
+        "disciplinary actions"
+      ],
+      "complexity": "high",
+      "word_count": 950
+    },
+    {
+      "title": "Intellectual Property and Confidentiality Agreement",
+      "topics": [
+        "IP ownership",
+        "invention disclosure",
+        "NDA requirements",
+        "trade secrets"
+      ],
+      "complexity": "high",
+      "word_count": 900
+    }
+  ]
+}

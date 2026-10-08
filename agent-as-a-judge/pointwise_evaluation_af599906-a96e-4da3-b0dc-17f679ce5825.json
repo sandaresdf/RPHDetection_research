@@ -1,0 +1,81 @@
+{
+  "task_id": "af599906-a96e-4da3-b0dc-17f679ce5825",
+  "query": "What is machine learning and how does it work?",
+  "timestamp": "2025-10-28T02:42:16.342048",
+  "judgments": [
+    {
+      "judgment_id": "d1865101-a249-447b-9a46-5fd65d437bf6",
+      "mode": "pointwise",
+      "scores": {},
+      "overall_score": 0.0,
+      "reasoning": "",
+      "timestamp": "2025-10-28T02:42:15.877437",
+      "metadata": {
+        "query": "What is machine learning and how does it work?",
+        "agent_id": "agent_gpt",
+        "response_id": "24eb94dc-550e-42fb-b6fe-c38c55eb099a",
+        "has_reference": true
+      }
+    },
+    {
+      "judgment_id": "fd95ea23-ffed-4cdf-8c0f-976d45efa4cc",
+      "mode": "pointwise",
+      "scores": {},
+      "overall_score": 0.0,
+      "reasoning": "",
+      "timestamp": "2025-10-28T02:42:16.051278",
+      "metadata": {
+        "query": "What is machine learning and how does it work?",
+        "agent_id": "agent_gpt2",
+        "response_id": "7b5a960b-1309-4d5c-86cc-94c159d826ee",
+        "has_reference": true
+      }
+    },
+    {
+      "judgment_id": "f51ea9f5-a7c0-448c-86ca-21164a91b6ac",
+      "mode": "pointwise",
+      "scores": {},
+      "overall_score": 0.0,
+      "reasoning": "",
+      "timestamp": "2025-10-28T02:42:16.342048",
+      "metadata": {
+        "query": "What is machine learning and how does it work?",
+        "agent_id": "agent_conservative",
+        "response_id": "17c59e5a-f212-4908-868c-ac4cd0835312",
+        "has_reference": true
+      }
+    }
+  ],
+  "agent_responses": {
+    "agent_gpt": {
+      "response": "Error generating response: 'Stream' object has no attribute 'choices'",
+      "agent_id": "agent_gpt",
+      "response_id": "24eb94dc-550e-42fb-b6fe-c38c55eb099a"
+    },
+    "agent_gpt2": {
+      "response": "Error generating response: 'Stream' object has no attribute 'choices'",
+      "agent_id": "agent_gpt2",
+      "response_id": "7b5a960b-1309-4d5c-86cc-94c159d826ee"
+    },
+    "agent_conservative": {
+      "response": "Error generating response: 'Stream' object has no attribute 'choices'",
+      "agent_id": "agent_conservative",
+      "response_id": "17c59e5a-f212-4908-868c-ac4cd0835312"
+    }
+  },
+  "rankings": [
+    [
+      "agent_gpt",
+      0.0
+    ],
+    [
+      "agent_gpt2",
+      0.0
+    ],
+    [
+      "agent_conservative",
+      0.0
+    ]
+  ],
+  "summary": "Evaluation Summary for: What is machine learning and how does it work?\n\nTotal Agents Evaluated: 3\nTotal Judgments: 3\n\nRankings:\n  1. agent_gpt: 0.00\n  2. agent_gpt2: 0.00\n  3. agent_conservative: 0.00\n\nBest Performing Agent: agent_gpt\n\nCriterion Analysis:"
+}

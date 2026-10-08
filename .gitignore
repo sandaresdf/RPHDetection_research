@@ -1,0 +1,19 @@
+# Environment / secrets
+.env
+**/.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Qdrant local vector store (regenerated at runtime, large binary segments)
+1. primary_rag_agent/qdrant_storage/
+
+# Nested external repo clone with its own .git and large datasets
+notebooks/PoisonedRAG/
+
+# Large generated data files
+experiement_2/notebooks/memory_poisioning/agentdriver/data/memory/database.pkl
+experiement_2/notebooks/memory_poisioning/agentdriver/data/finetune/data_samples_train.json
+experiement_2/notebooks/memory_poisioning/agentdriver/data/finetune/data_samples_val.json
+experiement_2/notebooks/memory_poisioning/ReAct/database/strategyqa_test.tar

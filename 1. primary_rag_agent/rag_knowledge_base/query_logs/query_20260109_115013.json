@@ -1,0 +1,82 @@
+{
+  "query": "What is the annual leave policy?",
+  "reasoning_trace": [
+    "We need to answer about annual leave policy. Must retrieve policy documents. Use retrieve_context."
+  ],
+  "final_answer": "**TechVenture Solutions \u2013 Annual Leave Policy (effective\u202f1\u202fJan\u202f2024)**  \n\n| Employee type | Service\u2011length entitlement* |\n|---------------|-----------------------------|\n| **Full\u2011time** | 0\u20112\u202fyears\u202f\u2192\u202f15\u202fworking days\u202f/\u202fyr  <br>3\u20115\u202fyears\u202f\u2192\u202f20\u202fworking days\u202f/\u202fyr  <br>6\u201110\u202fyears\u202f\u2192\u202f25\u202fworking days\u202f/\u202fyr  <br>11+\u202fyears\u202f\u2192\u202f30\u202fworking days\u202f/\u202fyr |\n| **Part\u2011time** | Pro\u2011rated to the full\u2011time equivalent (37.5\u202fh\u202f/\u202fwk) |\n\n\\*Entitlement is granted on the employee\u2019s anniversary and increases automatically each year.\n\n**Accrual & use**  \n- Leave accrues monthly at 1/12 of the annual entitlement, starting day\u202f1 of employment.  \n- Employees may begin using accrued leave after **90\u202fdays** of service.  \n\n**Additional time\u2011off**  \n- 3 **personal days** per year are provided **in addition** to the annual leave allocation.  \n\n**Approval process**  \n- **1\u20115\u202fdays** \u2013 approval by direct manager.  \n- **6\u201110\u202fdays** \u2013 approval by department head.  \n- **11\u202f+\u202fdays** \u2013 approval by department head **and** HR Director.  \n\n**Key employee responsibilities**  \n- Submit leave requests through the designated system within the required timeframes.  \n- Provide hand\u2011over documentation and set out\u2011of\u2011office messages for extended absences.  \n\nFor any questions, contact HR Operations (hr\u2011operations@techventure.com) or the Leave Administration team (leave\u2011admin@techventure.com).  ",
+  "retrieved_documents": [
+    {
+      "info": "1 (Category: hr_policies, Source: 01_Annual_Leave_and_Time-Off_Policy.txt)",
+      "content": "---\n\n## 1. PURPOSE AND SCOPE\n\nThis policy establishes guidelines for annual leave entitlement, approval procedures, and time-off management for all TechVenture Solutions employees. This policy applies to all full-time and part-time permanent employees across all departments and geographic locations.\n\n## 2. LEAVE ENTITLEMENT\n\n### 2.1 Annual Leave Allocation\n\nAnnual leave entitlement is based on length of service and employment status:"
+    },
+    {
+      "info": "2 (Category: hr_policies, Source: 01_Annual_Leave_and_Time-Off_Policy.txt)",
+      "content": "**TECHVENTURE SOLUTIONS**\n**ANNUAL LEAVE AND TIME-OFF POLICY**\n\n---\n**"
+    },
+    {
+      "info": "Version:** v1.0  )",
+      "content": "**Effective Date:** January 1, 2024  \n**Review Date:** December 31, 2024  \n**"
+    },
+    {
+      "info": "Owner:** Human Resources Department  )",
+      "content": "**Approved By:** Sarah Martinez, Chief People Officer  \n\n---\n\n## 1. PURPOSE AND SCOPE"
+    },
+    {
+      "info": "3 (Category: hr_policies, Source: 01_Annual_Leave_and_Time-Off_Policy.txt)",
+      "content": "### 2.2 Leave Accrual Method\n\n- New employees accrue leave monthly at 1/12th of their annual entitlement\n- Leave begins accruing from the first day of employment\n- Employees may utilize accrued leave after completing 90 days of employment\n- Leave entitlement increases on the anniversary of the employee's start date\n\n### 2.3 Additional Leave Categories\n\n**Personal Days:** All employees receive 3 personal days annually, separate from annual leave allocation."
+    },
+    {
+      "info": "4 (Category: hr_policies, Source: 01_Annual_Leave_and_Time-Off_Policy.txt)",
+      "content": "## 7. CONTACT INFORMATION\n\nFor questions regarding this policy, contact:\n- **HR Operations:** hr-operations@techventure.com\n- **Leave Administration:** leave-admin@techventure.com  \n- **Policy Questions:** hr-policy@techventure.com\n- **HR Help Desk:** (555) 123-4567, ext. 2200\n\nThis policy supersedes all previous leave and time-off policies. Updates and revisions will be communicated through official company channels and posted on the employee portal."
+    },
+    {
+      "info": "5 (Category: hr_policies, Source: 01_Annual_Leave_and_Time-Off_Policy.txt)",
+      "content": "### 3.3 Approval Authority Matrix\n\n| Leave Duration | Approval Required |\n|----------------|-------------------|\n| 1-5 days | Direct Manager |\n| 6-10 days | Department Head |\n| 11+ days | Department Head + HR Director |\n\n### 3.4 Denial and Appeals Process\n\nManagers may deny leave requests based on:\n- Business critical periods (product launches, quarter-end, etc.)\n- Insufficient staffing coverage\n- Previously approved team member absences"
+    },
+    {
+      "info": "6 (Category: hr_policies, Source: 01_Annual_Leave_and_Time-Off_Policy.txt)",
+      "content": "### 6.2 Employee Responsibilities\n\n- Submit requests through proper channels and timeframes\n- Provide adequate project handover documentation before extended leave\n- Update out-of-office messages and delegate urgent responsibilities\n- Notify HR of any changes to approved leave plans\n\n### 6.3 Policy Violations"
+    },
+    {
+      "info": "7 (Category: hr_policies, Source: 01_Annual_Leave_and_Time-Off_Policy.txt)",
+      "content": "**Full-Time Employees:**\n- Years 0-2: 15 working days per calendar year\n- Years 3-5: 20 working days per calendar year  \n- Years 6-10: 25 working days per calendar year\n- Years 11+: 30 working days per calendar year\n\n**Part-Time Employees:**\n- Pro-rated based on scheduled working hours relative to full-time equivalent (37.5 hours per week)\n\n### 2.2 Leave Accrual Method"
+    }
+  ],
+  "agent_output_raw": null,
+  "tool_calls": [
+    {
+      "name": "retrieve_context",
+      "args": {
+        "query": "annual leave policy"
+      },
+      "id": "fc_4f41688f-53a3-47d5-91d7-a19c57de4af7",
+      "type": "tool_call"
+    }
+  ],
+  "response_metadata": {
+    "token_usage": {
+      "completion_tokens": 48,
+      "prompt_tokens": 163,
+      "total_tokens": 211,
+      "completion_time": 0.100105618,
+      "completion_tokens_details": {
+        "reasoning_tokens": 19
+      },
+      "prompt_time": 0.006973311,
+      "prompt_tokens_details": null,
+      "queue_time": 0.049934319,
+      "total_time": 0.107078929
+    },
+    "model_name": "openai/gpt-oss-120b",
+    "system_fingerprint": "fp_e10890e4b9",
+    "service_tier": "on_demand",
+    "reasoning_effort": "medium",
+    "finish_reason": "tool_calls",
+    "logprobs": null,
+    "model_provider": "groq"
+  },
+  "metadata": {
+    "timestamp": "2026-01-09T11:50:13.473358",
+    "retrieval_top_k": 3
+  }
+}

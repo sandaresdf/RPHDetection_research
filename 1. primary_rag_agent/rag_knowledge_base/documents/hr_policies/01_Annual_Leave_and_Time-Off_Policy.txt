@@ -1,0 +1,165 @@
+**TECHVENTURE SOLUTIONS**
+**ANNUAL LEAVE AND TIME-OFF POLICY**
+
+---
+**Document Version:** v1.0  
+**Effective Date:** January 1, 2024  
+**Review Date:** December 31, 2024  
+**Document Owner:** Human Resources Department  
+**Approved By:** Sarah Martinez, Chief People Officer  
+
+---
+
+## 1. PURPOSE AND SCOPE
+
+This policy establishes guidelines for annual leave entitlement, approval procedures, and time-off management for all TechVenture Solutions employees. This policy applies to all full-time and part-time permanent employees across all departments and geographic locations.
+
+## 2. LEAVE ENTITLEMENT
+
+### 2.1 Annual Leave Allocation
+
+Annual leave entitlement is based on length of service and employment status:
+
+**Full-Time Employees:**
+- Years 0-2: 15 working days per calendar year
+- Years 3-5: 20 working days per calendar year  
+- Years 6-10: 25 working days per calendar year
+- Years 11+: 30 working days per calendar year
+
+**Part-Time Employees:**
+- Pro-rated based on scheduled working hours relative to full-time equivalent (37.5 hours per week)
+
+### 2.2 Leave Accrual Method
+
+- New employees accrue leave monthly at 1/12th of their annual entitlement
+- Leave begins accruing from the first day of employment
+- Employees may utilize accrued leave after completing 90 days of employment
+- Leave entitlement increases on the anniversary of the employee's start date
+
+### 2.3 Additional Leave Categories
+
+**Personal Days:** All employees receive 3 personal days annually, separate from annual leave allocation.
+
+**Bereavement Leave:** Up to 5 days for immediate family members (spouse, children, parents, siblings), 3 days for extended family members.
+
+## 3. LEAVE APPROVAL PROCESS
+
+### 3.1 Standard Approval Workflow
+
+1. **Request Submission:** Employees must submit leave requests through the PeopleForce HR system at least 10 business days in advance for planned leave
+2. **Manager Review:** Direct supervisors have 3 business days to approve or decline requests
+3. **HR Notification:** Approved requests automatically generate notifications to hr-operations@techventure.com
+4. **Calendar Integration:** Approved leave syncs with Outlook calendars and team scheduling systems
+
+### 3.2 Emergency Leave Requests
+
+For unplanned absences due to illness or emergency:
+- Contact direct supervisor within 2 hours of normal start time
+- Submit formal request in PeopleForce system within 48 hours of return
+- Provide supporting documentation if absence exceeds 3 consecutive days
+
+### 3.3 Approval Authority Matrix
+
+| Leave Duration | Approval Required |
+|----------------|-------------------|
+| 1-5 days | Direct Manager |
+| 6-10 days | Department Head |
+| 11+ days | Department Head + HR Director |
+
+### 3.4 Denial and Appeals Process
+
+Managers may deny leave requests based on:
+- Business critical periods (product launches, quarter-end, etc.)
+- Insufficient staffing coverage
+- Previously approved team member absences
+
+Employees may appeal denials through hr-appeals@techventure.com within 5 business days.
+
+## 4. CARRYOVER RULES
+
+### 4.1 Annual Carryover Limits
+
+- **Maximum Carryover:** Employees may carry forward up to 5 unused annual leave days to the following calendar year
+- **Use-It Period:** Carried-over days must be utilized by March 31st of the subsequent year
+- **Forfeiture:** Any carried-over days not used by the deadline are forfeited without compensation
+
+### 4.2 Carryover Approval Process
+
+- Automatic carryover applies for eligible unused days up to the 5-day limit
+- Employees with exceptional circumstances may request additional carryover through the Exception Request Form (HR-EX-001)
+- Exception requests require Department Head and HR Director approval
+- Maximum exception carryover: 10 days (requires CEO approval)
+
+### 4.3 Leave Balance Notifications
+
+The PeopleForce system generates automated reminders:
+- November 1st: Annual leave balance notification
+- December 1st: Final reminder for year-end leave planning
+- January 15th: Carryover balance confirmation
+- March 15th: Final reminder for carried-over day utilization
+
+## 5. PUBLIC HOLIDAYS
+
+### 5.1 Recognized Public Holidays
+
+TechVenture Solutions observes the following public holidays:
+- New Year's Day
+- Martin Luther King Jr. Day
+- Presidents' Day
+- Memorial Day
+- Independence Day
+- Labor Day
+- Thanksgiving Day
+- Day after Thanksgiving
+- Christmas Eve
+- Christmas Day
+- New Year's Eve
+
+**Total:** 11 company-recognized holidays annually
+
+### 5.2 Holiday Pay and Scheduling
+
+- Full-time employees receive regular pay for recognized holidays
+- Part-time employees receive holiday pay proportional to scheduled hours
+- When holidays fall on weekends, the company observes the federal substitute day
+- Employees required to work on holidays receive holiday premium pay (1.5x regular rate) plus compensatory time off
+
+### 5.3 Floating Holidays
+
+Employees receive 2 floating holiday days annually to accommodate personal religious or cultural observances not covered by standard company holidays. Floating holidays:
+- Must be used within the calendar year (no carryover permitted)
+- Require 5 business days advance notice
+- Follow standard approval workflow
+
+## 6. IMPLEMENTATION AND COMPLIANCE
+
+### 6.1 Manager Responsibilities
+
+- Review and respond to leave requests within specified timeframes
+- Ensure adequate coverage planning for approved absences
+- Monitor team leave patterns to prevent operational disruptions
+- Maintain confidentiality regarding employee leave reasons
+
+### 6.2 Employee Responsibilities
+
+- Submit requests through proper channels and timeframes
+- Provide adequate project handover documentation before extended leave
+- Update out-of-office messages and delegate urgent responsibilities
+- Notify HR of any changes to approved leave plans
+
+### 6.3 Policy Violations
+
+Failure to comply with this policy may result in disciplinary action, including:
+- Written warnings for repeated late submissions
+- Leave request denial for policy non-compliance
+- Progressive discipline for unauthorized absences
+
+## 7. CONTACT INFORMATION
+
+For questions regarding this policy, contact:
+- **HR Operations:** hr-operations@techventure.com
+- **Leave Administration:** leave-admin@techventure.com  
+- **Policy Questions:** hr-policy@techventure.com
+- **HR Help Desk:** (555) 123-4567, ext. 2200
+
+This policy supersedes all previous leave and time-off policies. Updates and revisions will be communicated through official company channels and posted on the employee portal.

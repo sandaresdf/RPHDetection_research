@@ -1,0 +1,110 @@
+# INVOICE PROCESSING AND PAYMENT PROCEDURES
+
+**Document Version:** v1.0  
+**Effective Date:** March 15, 2024  
+**Review Date:** March 15, 2025  
+**Document Owner:** Finance Department  
+**Approved By:** Sarah Chen, CFO  
+
+---
+
+## 1. PURPOSE AND SCOPE
+
+This document establishes standardized procedures for invoice processing and payment management at TechVenture Solutions. These procedures apply to all departments, vendors, contractors, and service providers conducting business with the company. Adherence to these guidelines ensures timely payments, accurate financial records, and compliance with internal controls.
+
+## 2. INVOICE SUBMISSION REQUIREMENTS
+
+### 2.1 Vendor Invoice Submission
+All vendors must submit invoices through one of the following approved channels:
+
+- **Primary Method:** Electronic submission via VendorPortal system (portal.techventure.com)
+- **Secondary Method:** Email to invoices@techventure.com with "INVOICE SUBMISSION" in subject line
+- **Exception Cases:** Physical mail to TechVenture Solutions, Attn: Accounts Payable, 2750 Technology Drive, Suite 400, San Jose, CA 95110
+
+### 2.2 Required Invoice Information
+Each invoice must contain the following mandatory elements:
+
+1. TechVenture Solutions purchase order number (if applicable)
+2. Vendor name, address, and tax identification number
+3. Invoice number and date
+4. Detailed description of goods/services provided
+5. Unit prices, quantities, and total amounts
+6. Payment terms and due date
+7. Vendor contact information for inquiries
+
+### 2.3 Internal Expense Submissions
+Employees submitting expense reports or requesting reimbursements must use ExpenseTracker Pro and include:
+
+- Completed Form EXP-2024 with supervisor approval
+- Original receipts or digital copies (minimum 300 DPI)
+- Business justification for expenses over $75
+- Client/project codes when applicable
+
+## 3. VERIFICATION AND APPROVAL PROCESS
+
+### 3.1 Three-Way Match Verification
+The Accounts Payable team performs a three-way match for all purchase order-related invoices:
+
+1. **Purchase Order Verification:** Confirm PO exists in NetSuite ERP system
+2. **Receipt Confirmation:** Validate goods/services received via receiving reports
+3. **Invoice Accuracy:** Verify pricing, quantities, and calculations match approved terms
+
+### 3.2 Approval Workflow
+Invoice approvals follow these authorization limits:
+
+- **Up to $2,500:** Department Manager approval required
+- **$2,501 - $10,000:** Director-level approval required
+- **$10,001 - $50,000:** VP-level approval required
+- **Above $50,000:** CFO approval required
+
+### 3.3 Review Timeline
+- Standard invoices: 3-5 business days for initial review
+- Complex invoices requiring research: 7-10 business days
+- Emergency processing (pre-approved): 24-48 hours
+
+## 4. PAYMENT SCHEDULES AND TERMS
+
+### 4.1 Standard Payment Cycles
+TechVenture Solutions processes payments according to the following schedule:
+
+**Weekly ACH Runs:** Every Wednesday for approved invoices
+**Check Runs:** Bi-weekly on alternating Fridays
+**Wire Transfers:** Same-day processing for amounts over $25,000 (with appropriate approvals)
+
+### 4.2 Payment Terms Priority
+1. **Net 10:** Critical vendors and utilities
+2. **Net 30:** Standard vendor payments (majority of transactions)
+3. **Net 45:** Non-critical services and consulting agreements
+4. **Net 60:** Long-term contracts with established partners
+
+### 4.3 Early Payment Discounts
+The Finance team evaluates early payment discount opportunities exceeding 2% for invoices over $5,000. Department heads receive notification of significant savings opportunities requiring expedited approval.
+
+## 5. DISPUTE RESOLUTION PROCEDURES
+
+### 5.1 Internal Dispute Process
+When discrepancies arise, the following escalation path applies:
+
+1. **Initial Review:** Accounts Payable Specialist investigates within 2 business days
+2. **Department Consultation:** Requesting department provides clarification within 3 business days
+3. **Vendor Communication:** AP Manager contacts vendor for resolution within 5 business days
+4. **Executive Review:** Disputes exceeding $10,000 escalate to Finance Director
+
+### 5.2 Vendor Dispute Communications
+All vendor disputes must be documented using Dispute Form DF-2024 and logged in the VendorPortal system. Communications should include:
+
+- Original invoice and supporting documentation
+- Specific nature of discrepancy
+- Proposed resolution timeline
+- Contact information: disputes@techventure.com or (408) 555-0199
+
+### 5.3 Resolution Timeline
+- **Minor discrepancies (under $1,000):** 5-7 business days
+- **Moderate disputes ($1,000-$10,000):** 10-15 business days
+- **Major disputes (over $10,000):** 15-30 business days, may involve legal review
+
+## 6. COMPLIANCE AND REPORTING
+
+Monthly reconciliation reports are generated automatically through NetSuite and distributed to department heads by the 10th of each month. Any questions regarding invoice status should be directed to the Accounts Payable team at ap-support@techventure.com.
+
+For urgent payment inquiries outside normal business hours, contact the Finance Department emergency line at (408) 555-0198.

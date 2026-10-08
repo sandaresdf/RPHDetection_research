@@ -1,0 +1,139 @@
+**TECHVENTURE SOLUTIONS**
+**ACCEPTABLE USE OF IT RESOURCES POLICY**
+
+---
+**Document Information:**
+- Policy ID: IT-SEC-001
+- Version: 1.0
+- Effective Date: March 15, 2024
+- Next Review Date: March 15, 2025
+- Owner: IT Security Department
+- Approved By: Chief Information Officer
+- Contact: itsecurity@techventure.com
+
+---
+
+## 1. PURPOSE AND SCOPE
+
+This policy establishes guidelines for the appropriate use of TechVenture Solutions' information technology resources, including but not limited to computer systems, networks, software applications, mobile devices, and internet connectivity. All employees, contractors, consultants, and third-party users with access to company IT resources must comply with these requirements.
+
+## 2. PERMITTED USAGE
+
+### 2.1 Authorized Business Activities
+Company IT resources are provided primarily for conducting legitimate business operations, including:
+
+- Accessing and utilizing approved software applications (Salesforce CRM, Microsoft 365 Suite, Slack, Jira)
+- Communicating with clients, vendors, and colleagues through official channels
+- Storing and retrieving business-related documents via SharePoint and approved cloud storage
+- Participating in virtual meetings using Zoom or Microsoft Teams
+- Conducting research relevant to job responsibilities
+
+### 2.2 Limited Personal Use
+Reasonable personal use of IT resources is permitted under the following conditions:
+
+- Usage occurs during break times or lunch periods
+- Personal activities do not interfere with work productivity or network performance
+- Content accessed complies with all other provisions of this policy
+- Personal use does not exceed 30 minutes per day per employee
+- No personal software installation without prior IT approval
+
+### 2.3 Educational and Professional Development
+Employees may access online training platforms, professional certification websites, and industry publications that enhance job-related skills with supervisor approval documented via email to learning@techventure.com.
+
+## 3. PROHIBITED ACTIVITIES
+
+### 3.1 Strictly Forbidden Actions
+The following activities are expressly prohibited when using company IT resources:
+
+- Downloading, storing, or transmitting copyrighted materials without proper licensing
+- Accessing pornographic, gambling, or other inappropriate websites as defined by corporate content filters
+- Installing unauthorized software, browser extensions, or mobile applications
+- Attempting to bypass security controls, firewalls, or access restrictions
+- Sharing login credentials or allowing unauthorized individuals to use assigned accounts
+- Engaging in cryptocurrency mining or blockchain processing activities
+- Conducting personal business ventures or side employment using company resources
+
+### 3.2 Security Violations
+Users must not engage in activities that compromise system security:
+
+- Opening suspicious email attachments or clicking unverified links
+- Connecting unauthorized USB drives or external storage devices
+- Attempting to access systems or data beyond assigned authorization levels
+- Disabling antivirus software, Windows Defender, or other security applications
+- Using public Wi-Fi networks for confidential business communications without VPN protection
+
+### 3.3 Network Misuse
+Prohibited network activities include:
+
+- Consuming excessive bandwidth through streaming services during business hours
+- Operating personal servers or hosting services from company networks
+- Participating in peer-to-peer file sharing networks
+- Conducting network scanning or penetration testing without written authorization from IT Security
+
+## 4. PERSONAL DEVICE USAGE
+
+### 4.1 Bring Your Own Device (BYOD) Program
+Employees may connect personal devices to company resources under the following framework:
+
+**Enrollment Requirements:**
+- Complete BYOD Agreement Form (IT-FORM-003) available on the company intranet
+- Install Microsoft Intune mobile device management (MDM) software
+- Configure device PIN/password protection with minimum 8-character complexity
+- Enable automatic screen lock after 5 minutes of inactivity
+
+**Supported Device Categories:**
+- Smartphones: iPhone (iOS 14+), Android (version 10+)
+- Tablets: iPad, Surface Pro, approved Android tablets
+- Laptops: Windows 10/11, macOS 10.15+, approved Linux distributions
+
+### 4.2 Personal Device Security Standards
+All enrolled personal devices must maintain:
+
+- Current operating system updates and security patches
+- Approved email client configuration (Outlook Mobile or native clients)
+- Remote wipe capability enabled for data protection
+- Prohibition against jailbreaking (iOS) or rooting (Android) devices
+
+### 4.3 Data Segregation
+Personal devices accessing company data must maintain clear separation between business and personal information through containerization provided by Intune or equivalent solutions approved by IT Security.
+
+## 5. MONITORING PRACTICES
+
+### 5.1 Network Monitoring
+TechVenture Solutions employs continuous monitoring systems to ensure network security and policy compliance:
+
+- Web traffic analysis through FortiGate firewall logs
+- Email security scanning via Microsoft Defender for Office 365
+- Network intrusion detection using SentinelOne endpoint protection
+- Bandwidth utilization tracking during business hours
+
+### 5.2 System Logging and Auditing
+The following activities are automatically logged and retained for 12 months:
+
+- User login/logout events across all systems
+- File access and modification within SharePoint and network drives
+- Software installation attempts and system configuration changes
+- Email transmission records (metadata only, not content)
+- VPN connection logs and remote access sessions
+
+### 5.3 Privacy Considerations
+While TechVenture Solutions reserves the right to monitor IT resource usage, the company respects employee privacy within legal boundaries:
+
+- Monitoring focuses on security threats and policy violations rather than individual surveillance
+- Personal communications clearly marked as such receive additional privacy protection
+- Employees will receive advance notice of any comprehensive system investigations
+- HR Department (hr@techventure.com) must approve any monitoring activities involving specific individuals
+
+### 5.4 Violation Response Procedures
+Policy violations detected through monitoring systems trigger the following escalation process:
+
+1. **Level 1:** Automated system alerts reviewed by IT Security team
+2. **Level 2:** Supervisor notification for minor violations requiring coaching
+3. **Level 3:** HR involvement for serious violations potentially affecting employment
+4. **Level 4:** Legal department engagement for violations involving criminal activity
+
+## 6. COMPLIANCE AND ENFORCEMENT
+
+Violations of this Acceptable Use Policy may result in disciplinary action ranging from verbal warnings to termination of employment, depending on severity and frequency. All employees must acknowledge receipt and understanding of this policy by completing the online training module in the Learning Management System within 30 days of hire or policy updates.
+
+For questions regarding this policy, contact the IT Help Desk at extension 2847 or email support@techventure.com.

@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Annual Leave and Time-Off Policy",
+    "category": "hr_policies",
+    "topics": [
+      "leave entitlement",
+      "leave approval process",
+      "carryover rules",
+      "public holidays"
+    ],
+    "target_word_count": 800,
+    "actual_word_count": 922,
+    "complexity": "medium",
+    "generated_at": "2025-12-22T05:23:09.383153",
+    "model": "claude-sonnet-4-20250514",
+    "tokens_used": 1893,
+    "filename": "01_Annual_Leave_and_Time-Off_Policy.txt",
+    "filepath": "documents/hr_policies/01_Annual_Leave_and_Time-Off_Policy.txt"
+  },
+  {
+    "title": "Remote Work and Hybrid Working Policy",
+    "category": "hr_policies",
+    "topics": [
+      "eligibility criteria",
+      "equipment provision",
+      "communication expectations",
+      "performance monitoring"
+    ],
+    "target_word_count": 1000,
+    "actual_word_count": 1112,
+    "complexity": "high",
+    "generated_at": "2025-12-22T05:23:49.363270",
+    "model": "claude-sonnet-4-20250514",
+    "tokens_used": 2174,
+    "filename": "02_Remote_Work_and_Hybrid_Working_Policy.txt",
+    "filepath": "documents/hr_policies/02_Remote_Work_and_Hybrid_Working_Policy.txt"
+  },
+  {
+    "title": "Employee Benefits and Perks Handbook",
+    "category": "hr_policies",
+    "topics": [
+      "health insurance",
+      "retirement plans",
+      "wellness programs",
+      "professional development"
+    ],
+    "target_word_count": 1200,
+    "actual_word_count": 1182,
+    "complexity": "high",
+    "generated_at": "2025-12-22T05:24:33.947504",
+    "model": "claude-sonnet-4-20250514",
+    "tokens_used": 2480,
+    "filename": "03_Employee_Benefits_and_Perks_Handbook.txt",
+    "filepath": "documents/hr_policies/03_Employee_Benefits_and_Perks_Handbook.txt"
+  },
+  {
+    "title": "Expense Reimbursement Guidelines",
+    "category": "hr_policies",
+    "topics": [
+      "eligible expenses",
+      "submission process",
+      "approval workflow",
+      "reimbursement timeline"
+    ],
+    "target_word_count": 700,
+    "actual_word_count": 702,
+    "complexity": "medium",
+    "generated_at": "2025-12-22T05:25:01.600109",
+    "model": "claude-sonnet-4-20250514",
+    "tokens_used": 1594,
+    "filename": "04_Expense_Reimbursement_Guidelines.txt",
+    "filepath": "documents/hr_policies/04_Expense_Reimbursement_Guidelines.txt"
+  },
+  {
+    "title": "Performance Review and Appraisal Process",
+    "category": "hr_policies",
+    "topics": [
+      "review cycles",
+      "evaluation criteria",
+      "feedback mechanisms",
+      "promotion guidelines"
+    ],
+    "target_word_count": 900,
+    "actual_word_count": 1022,
+    "complexity": "high",
+    "generated_at": "2025-12-22T05:25:41.297890",
+    "model": "claude-sonnet-4-20250514",
+    "tokens_used": 2057,
+    "filename": "05_Performance_Review_and_Appraisal_Process.txt",
+    "filepath": "documents/hr_policies/05_Performance_Review_and_Appraisal_Process.txt"
+  }
+]

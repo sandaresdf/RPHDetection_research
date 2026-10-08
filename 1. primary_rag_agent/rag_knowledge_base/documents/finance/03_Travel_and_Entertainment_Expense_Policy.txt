@@ -1,0 +1,128 @@
+**TECHVENTURE SOLUTIONS**
+**Travel and Entertainment Expense Policy**
+
+---
+**Document Version:** v1.0  
+**Effective Date:** January 15, 2024  
+**Review Date:** January 15, 2025  
+**Document Owner:** Finance Department  
+**Contact:** finance-policy@techventure.com  
+**Approval Authority:** Chief Financial Officer
+
+---
+
+## 1. PURPOSE AND SCOPE
+
+This policy establishes guidelines for travel and entertainment expenses incurred by TechVenture Solutions employees while conducting company business. All full-time and part-time employees, contractors, and consultants authorized to travel on behalf of TechVenture Solutions must adhere to these standards to ensure fiscal responsibility and regulatory compliance.
+
+## 2. TRAVEL BOOKING PROCEDURES
+
+### 2.1 Advance Authorization
+All business travel exceeding $500 in total estimated costs requires pre-approval through the TravelMax system. Submit Form TR-101 (Travel Authorization Request) to your direct supervisor at least 10 business days prior to departure. Emergency travel situations require verbal approval followed by system entry within 24 hours.
+
+### 2.2 Booking Requirements
+- **Preferred Vendors:** Utilize Corporate Travel Services (CTS) through our online portal at travel.techventure.com for all bookings
+- **Air Travel:** Economy class for domestic flights under 4 hours; business class permitted for international flights exceeding 6 hours or domestic flights exceeding 4 hours
+- **Ground Transportation:** Use company-approved ride services, rental cars (mid-size or smaller), or public transportation when practical
+- **Advance Purchase:** Book flights minimum 14 days in advance when possible to secure lowest available rates
+
+### 2.3 Personal Travel Extensions
+Employees may extend business trips for personal reasons provided:
+- No additional accommodation costs are incurred by the company
+- Personal portion is clearly identified in expense reporting
+- Return travel date does not interfere with business operations
+- Personal expenses are excluded from reimbursement claims
+
+## 3. ACCOMMODATION LIMITS
+
+### 3.1 Standard Allowances
+Maximum nightly rates vary by geographic location and are updated quarterly in the TravelMax system:
+
+- **Tier 1 Cities** (New York, San Francisco, London): $275 per night
+- **Tier 2 Cities** (Chicago, Dallas, Denver): $185 per night  
+- **Tier 3 Cities** (All other locations): $140 per night
+
+### 3.2 Accommodation Standards
+- Select business-class hotels with standard amenities including internet access
+- Shared accommodations are not required but may be requested for cost savings on extended stays
+- Extended stay facilities are preferred for trips exceeding 7 consecutive nights
+- All incidental charges (minibar, movies, spa services) are employee responsibility unless directly related to client entertainment
+
+### 3.3 Exception Procedures
+Rate exceptions require approval from the Finance Director when:
+- Conference or event organizers mandate specific hotels exceeding policy limits
+- No compliant accommodations are available within 25 miles of business location
+- Safety or security concerns necessitate alternative arrangements
+
+## 4. MEAL ALLOWANCES
+
+### 4.1 Daily Meal Limits
+Meal reimbursements follow a per-diem structure based on travel duration and location:
+
+**Domestic Travel:**
+- Breakfast: $18 maximum
+- Lunch: $25 maximum  
+- Dinner: $45 maximum
+- Daily total not to exceed $85
+
+**International Travel:**
+- Rates vary by country according to U.S. State Department guidelines
+- Access current rates through the TravelMax system country selector
+- Local currency conversion uses rates from date of transaction
+
+### 4.2 Meal Guidelines
+- Alcoholic beverages limited to $25 per day and only during dinner
+- Receipts required for all meal expenses exceeding $15
+- Gratuities included within stated maximums (18-20% standard)
+- Room service permitted only when business schedule prevents restaurant dining
+
+### 4.3 Group Meals
+When dining with colleagues on company business, the senior-ranking employee present should pay the entire bill and submit for reimbursement, clearly noting all attendees and business purpose on Form EX-205 (Group Meal Documentation).
+
+## 5. CLIENT ENTERTAINMENT
+
+### 5.1 Authorization Levels
+Client entertainment expenses require different approval levels based on total cost:
+- **Under $200:** Direct supervisor approval
+- **$200-$500:** Department head approval
+- **Over $500:** Finance Director approval
+
+### 5.2 Acceptable Entertainment Expenses
+- Business meals with clients or prospects
+- Sporting events, concerts, or cultural activities that facilitate business relationships
+- Golf outings or similar recreational activities with clear business purpose
+- Conference or industry event hospitality functions
+
+### 5.3 Documentation Requirements
+All client entertainment must include:
+- Detailed business purpose and expected outcomes
+- Complete list of attendees with company affiliations
+- Original receipts attached to expense report
+- Follow-up summary filed within 30 days documenting business results
+
+### 5.4 Prohibited Activities
+Company funds may not be used for:
+- Adult entertainment venues or activities
+- Personal gifts exceeding $50 in value
+- Entertainment for employee family members unless specifically business-related
+- Activities that could create appearance of impropriety or conflict of interest
+
+## 6. EXPENSE REPORTING AND REIMBURSEMENT
+
+### 6.1 Submission Timeline
+Submit completed expense reports through ExpenseTracker system within 30 days of travel completion. Late submissions may result in delayed reimbursement or denial of claims exceeding 60 days.
+
+### 6.2 Required Documentation
+- Original receipts for expenses exceeding $25
+- Completed Form EX-200 (Travel Expense Report) with all required approvals
+- Boarding passes or travel confirmations
+- Detailed itinerary showing business purpose for each location
+
+### 6.3 Reimbursement Processing
+Approved expense reports are processed bi-weekly with direct deposit occurring within 10 business days of approval. Questions regarding reimbursement status should be directed to accounts-payable@techventure.com.
+
+## 7. POLICY COMPLIANCE
+
+Violation of this policy may result in disciplinary action including denial of reimbursement, suspension of travel privileges, or other measures as deemed appropriate by management. Employees uncertain about expense appropriateness should consult with their supervisor or the Finance Department before incurring costs.
+
+For policy clarifications or special circumstances not addressed herein, contact the Finance Department at finance-policy@techventure.com or extension 2150.

@@ -1,0 +1,122 @@
+# EXPENSE REIMBURSEMENT GUIDELINES
+
+**Document Version:** v1.0  
+**Effective Date:** January 15, 2024  
+**Review Date:** January 15, 2025  
+**Document Owner:** Human Resources Department  
+**Approval Authority:** Chief Financial Officer  
+
+---
+
+## 1. PURPOSE AND SCOPE
+
+This document establishes standardized procedures for expense reimbursement at TechVenture Solutions. All employees, contractors, and authorized personnel incurring business-related expenses on behalf of the company must comply with these guidelines to ensure timely reimbursement and proper financial controls.
+
+## 2. ELIGIBLE EXPENSES
+
+### 2.1 Approved Business Expenses
+
+The following categories are eligible for reimbursement when directly related to company business:
+
+- **Travel and Transportation:** Airfare, hotel accommodations, ground transportation (taxi, rideshare, public transit), rental vehicles, and parking fees
+- **Meals and Entertainment:** Business meals with clients or colleagues, conference dining, and approved entertainment expenses (alcohol excluded unless pre-approved by department head)
+- **Professional Development:** Conference registration fees, training materials, certification costs, and educational subscriptions
+- **Office Supplies and Equipment:** Software licenses, mobile device accessories, ergonomic equipment, and necessary office materials for remote work
+- **Communication Expenses:** Mobile phone overages during business travel, international calling charges, and internet connectivity fees while traveling
+
+### 2.2 Non-Reimbursable Expenses
+
+- Personal entertainment, alcoholic beverages (unless pre-approved), spouse/family travel costs, traffic violations, personal insurance, and expenses exceeding established limits without prior authorization
+
+### 2.3 Expense Limitations
+
+- Meals: $75 per day domestic, $100 per day international
+- Hotel accommodations: Standard business rate in destination city
+- Ground transportation: Economy class or equivalent
+
+## 3. SUBMISSION PROCESS
+
+### 3.1 Documentation Requirements
+
+All reimbursement requests must include:
+
+1. **ExpenseTracker Form ER-2024:** Complete the standardized form available on the company intranet
+2. **Original receipts:** Digital scans or photographs showing date, vendor, amount, and business purpose
+3. **Business justification:** Detailed explanation of how the expense relates to company operations
+4. **Approval signatures:** Department head authorization for expenses exceeding $250
+
+### 3.2 Submission Methods
+
+**Primary Method:** Submit completed ExpenseTracker Form ER-2024 through the FinancePortal system (portal.techventure.com/expenses) within 30 days of expense occurrence.
+
+**Alternative Method:** Email completed forms and supporting documentation to expenses@techventure.com with subject line "Expense Reimbursement - [Employee Name] - [Month/Year]"
+
+### 3.3 Submission Deadlines
+
+- **Monthly Expenses:** Submit by the 5th of the following month
+- **Travel-Related Expenses:** Submit within 10 business days of trip completion
+- **Annual Deadline:** All expenses must be submitted by December 20th for current fiscal year processing
+
+## 4. APPROVAL WORKFLOW
+
+### 4.1 Standard Approval Process
+
+**Step 1:** Employee submits expense report through designated channels  
+**Step 2:** Direct supervisor reviews and approves expenses under $500  
+**Step 3:** Department head approval required for expenses $500-$2,000  
+**Step 4:** Finance team validates documentation and coding  
+**Step 5:** CFO approval required for expenses exceeding $2,000  
+
+### 4.2 Expedited Processing
+
+Expenses qualifying for expedited processing include:
+- Emergency travel situations
+- Time-sensitive client entertainment
+- Critical equipment purchases under $1,000
+
+Contact finance@techventure.com with "URGENT EXPENSE" in the subject line and provide detailed justification.
+
+### 4.3 Review Criteria
+
+Approvers evaluate expenses based on:
+- Business necessity and appropriateness
+- Compliance with company spending policies
+- Accuracy and completeness of documentation
+- Budget availability within department allocations
+
+## 5. REIMBURSEMENT TIMELINE
+
+### 5.1 Standard Processing Schedule
+
+- **Initial Review:** 2-3 business days after submission
+- **Approval Cycle:** 3-5 business days depending on expense amount
+- **Payment Processing:** 5-7 business days after final approval
+- **Total Timeline:** 10-15 business days from submission to payment
+
+### 5.2 Payment Methods
+
+**Direct Deposit:** Default method using existing payroll banking information  
+**Corporate Check:** Available upon request, adds 2-3 business days to processing time  
+**Expense Advance Recovery:** Deducted from subsequent payroll if advance was provided
+
+### 5.3 Status Tracking
+
+Monitor reimbursement status through:
+- FinancePortal system dashboard
+- Automated email notifications at each approval stage
+- Direct inquiry to expenses@techventure.com
+
+## 6. COMPLIANCE AND AUDIT
+
+All expense reports are subject to periodic audit by the Finance Department. Employees must retain copies of all supporting documentation for 24 months. Violations of these guidelines may result in delayed reimbursement, expense denial, or disciplinary action.
+
+## 7. CONTACT INFORMATION
+
+**General Questions:** hr@techventure.com  
+**Processing Issues:** finance@techventure.com  
+**Policy Clarifications:** CFO Office - cfo@techventure.com  
+**Technical Support:** IT Help Desk - helpdesk@techventure.com
+
+---
+
+*This document supersedes all previous expense reimbursement policies. Questions regarding interpretation should be directed to the Human Resources Department.*

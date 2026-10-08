@@ -1,0 +1,177 @@
+**TECHVENTURE SOLUTIONS**
+**PROCUREMENT AND VENDOR MANAGEMENT POLICY**
+
+---
+
+**Document Control**
+- **Version:** 1.0
+- **Effective Date:** March 1, 2024
+- **Review Date:** March 1, 2025
+- **Document Owner:** Chief Financial Officer
+- **Approved By:** Executive Committee
+- **Classification:** Internal Use
+
+---
+
+## 1. PURPOSE AND SCOPE
+
+### 1.1 Purpose
+This Procurement and Vendor Management Policy establishes standardized procedures for acquiring goods and services, selecting vendors, managing contracts, and ensuring compliance with financial controls at TechVenture Solutions. This policy aims to optimize cost-effectiveness, mitigate risk, ensure quality standards, and maintain ethical business practices throughout all procurement activities.
+
+### 1.2 Scope
+This policy applies to all employees, contractors, and authorized agents of TechVenture Solutions who participate in procurement activities, including but not limited to: purchasing goods and services, vendor selection and evaluation, contract negotiation and execution, and payment processing. All expenditures exceeding $500 must comply with the procedures outlined herein.
+
+### 1.3 Policy Exceptions
+Exceptions to this policy require written approval from the Chief Financial Officer and must be documented in the ProcureTrack system with justification for the deviation.
+
+## 2. PROCUREMENT PROCESS
+
+### 2.1 Purchase Requisition Initiation
+All procurement activities must begin with a formal purchase requisition submitted through the ProcureTrack system. The requisition must include:
+
+- **Detailed description** of goods or services required
+- **Business justification** and budget impact analysis
+- **Estimated timeline** for delivery or completion
+- **Department budget code** and cost center allocation
+- **Preferred vendor** information (if applicable)
+- **Technical specifications** or statement of work
+
+### 2.2 Approval Thresholds
+The following approval thresholds apply to all procurement activities:
+
+**Tier 1 ($500 - $2,499):** Department Manager approval required
+**Tier 2 ($2,500 - $9,999):** Department Director and Finance Manager approval required
+**Tier 3 ($10,000 - $49,999):** Vice President and CFO approval required
+**Tier 4 ($50,000 - $99,999):** Executive Committee approval required
+**Tier 5 ($100,000+):** Board of Directors approval required
+
+### 2.3 Emergency Procurement
+In situations requiring immediate procurement to prevent business disruption, department heads may authorize emergency purchases up to $10,000. Emergency procurement must be reported to finance@techventure.com within 24 hours and formally documented within five business days.
+
+### 2.4 Procurement Categories
+TechVenture Solutions categorizes procurement into the following areas, each with specific requirements:
+
+**Technology and Software:** Requires IT Security review for data protection compliance
+**Professional Services:** Requires legal review for intellectual property considerations  
+**Capital Equipment:** Requires asset management registration and depreciation scheduling
+**Marketing and Communications:** Requires brand compliance review
+**Facilities and Operations:** Requires health and safety compliance verification
+
+## 3. VENDOR SELECTION
+
+### 3.1 Vendor Qualification Process
+All potential vendors must complete the Vendor Qualification Assessment (Form VQA-2024) available through the vendor portal at vendors.techventure.com. The qualification process evaluates:
+
+- **Financial stability** and creditworthiness
+- **Technical capabilities** and relevant experience
+- **Quality certifications** and industry compliance
+- **Insurance coverage** and liability protection
+- **Data security measures** and privacy protocols
+- **References** from comparable organizations
+
+### 3.2 Competitive Bidding Requirements
+Procurement exceeding $10,000 requires competitive bidding with a minimum of three qualified vendors. The procurement team will issue a Request for Proposal (RFP) or Request for Quotation (RFQ) containing:
+
+- Comprehensive scope of work or specifications
+- Evaluation criteria and weighting methodology
+- Submission deadline and format requirements
+- Terms and conditions template
+- Contact information for vendor inquiries
+
+### 3.3 Vendor Evaluation Criteria
+Vendor selection decisions will be based on the following weighted criteria:
+
+**Cost and Value (35%):** Total cost of ownership, pricing competitiveness, and value proposition
+**Technical Capability (30%):** Ability to meet specifications, innovation, and scalability
+**Experience and References (20%):** Relevant experience, client references, and past performance
+**Financial Stability (10%):** Financial health, insurance coverage, and business continuity
+**Strategic Alignment (5%):** Cultural fit, partnership potential, and long-term viability
+
+### 3.4 Vendor Selection Committee
+For procurement exceeding $25,000, a Vendor Selection Committee will be established comprising:
+
+- **Committee Chair:** Requesting department representative
+- **Finance Representative:** Budget and cost analysis oversight
+- **Legal Representative:** Contract terms and risk assessment
+- **Technical Representative:** Specification compliance evaluation
+- **Procurement Specialist:** Process facilitation and vendor coordination
+
+## 4. CONTRACT APPROVAL
+
+### 4.1 Contract Development Process
+All vendor agreements must utilize TechVenture Solutions' standard contract templates available in the ContractVault system. Contract development follows this sequence:
+
+1. **Initial Draft:** Procurement team creates initial contract using approved templates
+2. **Technical Review:** Subject matter experts verify specifications and deliverables
+3. **Legal Review:** Legal department reviews terms, conditions, and risk allocation
+4. **Finance Review:** CFO office approves budget impact and payment terms
+5. **Final Approval:** Designated signatory provides final authorization
+
+### 4.2 Contract Approval Authority
+Contract signing authority is delegated as follows:
+
+**$0 - $24,999:** Finance Manager or Department Director
+**$25,000 - $99,999:** Chief Financial Officer
+**$100,000 - $499,999:** Chief Executive Officer
+**$500,000+:** Board Chair or designated Board member
+
+### 4.3 Mandatory Contract Terms
+All vendor contracts must include the following provisions:
+
+- **Termination clauses** allowing 30-day notice termination for convenience
+- **Intellectual property protection** and work-for-hire provisions
+- **Confidentiality and non-disclosure** requirements
+- **Data security and privacy** compliance obligations
+- **Insurance and indemnification** requirements
+- **Dispute resolution** through binding arbitration
+- **Force majeure** and business continuity provisions
+
+### 4.4 Contract Management
+Executed contracts must be stored in the ContractVault system with automated renewal notifications sent to contract administrators 90 days prior to expiration. Contract performance will be monitored through quarterly vendor scorecards evaluating delivery, quality, and service metrics.
+
+## 5. PAYMENT TERMS
+
+### 5.1 Standard Payment Terms
+TechVenture Solutions' standard payment terms are Net 45 days from invoice receipt, unless otherwise negotiated and approved by the CFO. Early payment discounts exceeding 2% may be considered when they provide demonstrable cost savings.
+
+### 5.2 Invoice Processing Requirements
+All vendor invoices must include:
+
+- **Purchase order number** or contract reference
+- **Detailed line items** matching approved specifications
+- **Proper billing address:** TechVenture Solutions, Accounts Payable, 1500 Innovation Drive, Suite 400, Austin, TX 78701
+- **Electronic submission** to ap@techventure.com in PDF format
+- **Supporting documentation** including delivery confirmations or service completion certificates
+
+### 5.3 Three-Way Matching Process
+Payment authorization requires successful three-way matching of:
+
+1. **Purchase Order:** Approved requisition with proper authorization
+2. **Receipt Confirmation:** Goods received or services completed verification
+3. **Invoice:** Vendor billing matching purchase order terms
+
+### 5.4 Payment Methods and Controls
+**Electronic Payments:** Preferred method via ACH transfer for amounts exceeding $1,000
+**Check Payments:** Available for vendors unable to accept electronic payments
+**Credit Card Payments:** Limited to purchases under $5,000 with department manager approval
+**Wire Transfers:** Reserved for international vendors or time-sensitive payments exceeding $25,000
+
+### 5.5 Expense Allocation and Reporting
+All payments must be properly coded to appropriate cost centers using the Enterprise Resource Planning (ERP) system. Monthly procurement reports will be distributed to department heads and the executive team, including vendor spending analysis, contract compliance metrics, and budget variance reporting.
+
+## 6. COMPLIANCE AND MONITORING
+
+### 6.1 Policy Compliance
+Violations of this procurement policy may result in disciplinary action up to and including termination. All employees must complete annual procurement training available through the TechVenture Learning Management System.
+
+### 6.2 Vendor Performance Management
+Vendor performance will be evaluated quarterly using standardized scorecards measuring delivery timeliness, quality standards, customer service, and cost competitiveness. Vendors consistently scoring below acceptable thresholds will be subject to corrective action plans or contract termination.
+
+This policy will be reviewed annually by the Finance Committee and updated as necessary to reflect changing business requirements, regulatory compliance needs, and industry best practices.
+
+---
+
+**For questions regarding this policy, contact:**
+- **Procurement Team:** procurement@techventure.com
+- **Finance Department:** finance@techventure.com  
+- **Legal Department:** legal@techventure.com
